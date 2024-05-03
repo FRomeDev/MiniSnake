@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/apple.png</File>
+    <File>C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/arial.spritefont</File>
+    <File>C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/ball.png</File>
+    <File>C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/Blob.mp3</File>
+    <File>C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/brick.png</File>
+    <File>C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/poison.png</File>
+    <File>C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/snake.png</File>
+    <File>C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/Sonido de fondo.mp3</File>
+    <File>C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/wolf.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

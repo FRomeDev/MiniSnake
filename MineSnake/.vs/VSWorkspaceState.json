@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.config",
+    "\\Content",
+    "\\Content\\bin",
+    "\\Content\\obj",
+    "\\obj"
+  ],
+  "SelectedNode": "\\obj\\project.nuget.cache",
+  "PreviewInSolutionExplorer": false
+}

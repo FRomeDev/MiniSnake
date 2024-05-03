@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/e4car/source/repos/Prueba de monogame/Prueba de monogame/Content/apple.png</File>
+    <File>C:/Users/e4car/source/repos/Prueba de monogame/Prueba de monogame/Content/arial.spritefont</File>
+    <File>C:/Users/e4car/source/repos/Prueba de monogame/Prueba de monogame/Content/ball.png</File>
+    <File>C:/Users/e4car/source/repos/Prueba de monogame/Prueba de monogame/Content/Blob.mp3</File>
+    <File>C:/Users/e4car/source/repos/Prueba de monogame/Prueba de monogame/Content/brick.png</File>
+    <File>C:/Users/e4car/source/repos/Prueba de monogame/Prueba de monogame/Content/poison.png</File>
+    <File>C:/Users/e4car/source/repos/Prueba de monogame/Prueba de monogame/Content/snake.png</File>
+    <File>C:/Users/e4car/source/repos/Prueba de monogame/Prueba de monogame/Content/Sonido de fondo.mp3</File>
+    <File>C:/Users/e4car/source/repos/Prueba de monogame/Prueba de monogame/Content/wolf.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

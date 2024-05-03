@@ -1,0 +1,47 @@
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Prueba de monogame.exe
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Prueba de monogame.deps.json
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Prueba de monogame.runtimeconfig.json
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Prueba de monogame.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Prueba de monogame.pdb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\Prueba de monogame.csproj.AssemblyReference.cache
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\Prueba de monogame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\Prueba de monogame.AssemblyInfoInputs.cache
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\Prueba de monogame.AssemblyInfo.cs
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\Prueba de monogame.csproj.CoreCompileInputs.cache
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\Prueba d.F7C9DF3A.Up2Date
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\Prueba de monogame.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\refint\Prueba de monogame.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\Prueba de monogame.pdb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\Prueba de monogame.genruntimeconfig.cache
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\ref\Prueba de monogame.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\apple.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\ball.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\brick.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\poison.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\snake.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\wolf.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\arial.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\Blob.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\Sonido de fondo.wma
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\Sonido de fondo.xnb

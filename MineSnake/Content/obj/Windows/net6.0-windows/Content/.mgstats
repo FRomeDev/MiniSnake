@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/apple.png","C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/bin/Windows/Content/apple.xnb","TextureProcessor","Texture2DContent",8576,5607509,0.4259667
+"C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/arial.spritefont","C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/bin/Windows/Content/arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70687,0.1737825
+"C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/ball.png","C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/bin/Windows/Content/ball.xnb","TextureProcessor","Texture2DContent",2483,6485,0.0031132
+"C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/Blob.mp3","C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/bin/Windows/Content/Blob.xnb","SoundEffectProcessor","SoundEffectContent",33024,198249,9.557575
+"C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/brick.png","C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/bin/Windows/Content/brick.xnb","TextureProcessor","Texture2DContent",2566,6485,0.0027073
+"C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/poison.png","C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/bin/Windows/Content/poison.xnb","TextureProcessor","Texture2DContent",2419,6485,0.0024625
+"C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/snake.png","C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/bin/Windows/Content/snake.xnb","TextureProcessor","Texture2DContent",1787,6485,0.0023572
+"C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/Sonido de fondo.mp3","C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/bin/Windows/Content/Sonido de fondo.xnb","SongProcessor","SongContent",3683328,133,2.341006
+"C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/wolf.png","C:/Users/e4car/source/repos/Minisnake/MineSnake/Content/bin/Windows/Content/wolf.xnb","TextureProcessor","Texture2DContent",2207,6485,0.0025875

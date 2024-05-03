@@ -1,0 +1,94 @@
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\MiniSnake.csproj.AssemblyReference.cache
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\MiniSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\MiniSnake.AssemblyInfoInputs.cache
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\MiniSnake.AssemblyInfo.cs
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\MiniSnake.csproj.CoreCompileInputs.cache
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\apple.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\arial.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\ball.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\Blob.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\brick.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\poison.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\snake.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\Sonido de fondo.wma
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\Sonido de fondo.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Content\wolf.xnb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\MiniSnake.exe
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\MiniSnake.deps.json
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\MiniSnake.runtimeconfig.json
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\MiniSnake.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\MiniSnake.pdb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\MiniSnake.csproj.Up2Date
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\MiniSnake.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\refint\MiniSnake.dll
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\MiniSnake.pdb
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\MiniSnake.genruntimeconfig.cache
+C:\Users\e4car\source\repos\Prueba de monogame\Prueba de monogame\obj\Debug\net6.0-windows\ref\MiniSnake.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Content\apple.xnb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Content\arial.xnb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Content\ball.xnb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Content\Blob.xnb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Content\brick.xnb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Content\poison.xnb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Content\snake.xnb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Content\Sonido de fondo.wma
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Content\Sonido de fondo.xnb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Content\wolf.xnb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\MiniSnake.exe
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\MiniSnake.deps.json
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\MiniSnake.runtimeconfig.json
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\MiniSnake.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\MiniSnake.pdb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\MiniSnake.csproj.AssemblyReference.cache
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\MiniSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\MiniSnake.AssemblyInfoInputs.cache
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\MiniSnake.AssemblyInfo.cs
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\MiniSnake.csproj.CoreCompileInputs.cache
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\MiniSnake.csproj.Up2Date
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\MiniSnake.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\refint\MiniSnake.dll
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\MiniSnake.pdb
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\MiniSnake.genruntimeconfig.cache
+C:\Users\e4car\source\repos\Minisnake\MineSnake\obj\Debug\net6.0-windows\ref\MiniSnake.dll
